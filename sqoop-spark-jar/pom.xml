@@ -19,7 +19,7 @@
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <commons-lang.version>2.5</commons-lang.version>
         <commons-io.version>2.4</commons-io.version>
-        <commons-compress.version>1.9</commons-compress.version>
+        <commons-compress.version>1.21</commons-compress.version>
         <commons-codec.version>1.9</commons-codec.version>
         <derby.version>10.8.2.2</derby.version>
         <hadoop.2.version>2.6.0</hadoop.2.version>
