@@ -21,7 +21,7 @@
         <commons-io.version>2.4</commons-io.version>
         <commons-compress.version>1.9</commons-compress.version>
         <commons-codec.version>1.9</commons-codec.version>
-        <derby.version>10.8.2.2</derby.version>
+        <derby.version>10.14.2.0</derby.version>
         <hadoop.2.version>2.6.0</hadoop.2.version>
         <hive.version>0.13.1</hive.version>
         <guava.version>11.0.2</guava.version>
